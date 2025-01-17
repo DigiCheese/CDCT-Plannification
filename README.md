@@ -6,12 +6,12 @@ Ce dépôt contient la documentation technique et la planification pour le proje
 Ce projet a été réalisé dans le cadre d'une formation Lead Developer chez DIGINAMIC Formation.
 
 ## 👥 Équipe
-- **Chef de projet** : Lucas Préaux
-- **Lead développeur** : Florian Furnari
+- **Chef de projet** : Lucas Préaux (alias [@lpreaux](https://github.com/lpreaux))
+- **Lead développeur** : Florian Furnari (alias [@Vellass](https://github.com/Velass))
 - **Développeurs** : 
-  - Sheerin Banu
-  - Gildas Montcho
-- **Architecte technique** : Abel Ciccoli
+  - Sheerin Banu (alias [@sheerinbanu](https://github.com/sheerinbanu))
+  - Gildas Montcho (alias [@eagle-tex](https://github.com/eagle-tex))
+- **Architecte technique** : Abel Ciccoli (alias [@Cyber-cicco](https://github.com/Cyber-cicco))
 
 ## 📚 Documentation disponible
 Tous les documents sont disponibles dans le dossier `/pdf` :
